@@ -13,6 +13,7 @@ public class DemoApplication {
 		System.out.println("firstApp");
 		User.info();
 		System.out.println("end of firstApp");
+		System.out.println("added line");
 	}
 
 }
